@@ -50,5 +50,3 @@ Saya adalah mahasiswa **Sistem Informasi** yang fokus pada integrasi **AI** ke d
 </picture>
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
